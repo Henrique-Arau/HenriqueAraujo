@@ -30,5 +30,5 @@
   
 </div>
 
-![Snake animation](https://github.com/Henrique-Arau/Henrique-Arau/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Henrique-Arau/HenriqueAraujo/blob/output/github-contribution-grid-snake.svg)
 
