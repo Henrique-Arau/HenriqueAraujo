@@ -2,6 +2,7 @@
 
 - 😎 Desenvolvedor Developer 
 - 😁 Desenvolvedor Frontend
+- 😁 Desenvolvedor Backend
 
 <div align="center">
   <a href="https://github.com/Henrique-Arau">
