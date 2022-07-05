@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Henrique Araujo
 
-- 😎 Desenvolvedor Developer 
+- 😎 Test analyst QA/QD 
 - 😁 Desenvolvedor Frontend
 - 😁 Desenvolvedor Backend
 
