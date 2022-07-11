@@ -18,6 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" />  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="<a href="https://www.flaticon.com/br/icones-gratis/pitao" title="pitão ícones">Pitão ícones criados por Freepik - Flaticon</a>" />  
  
 </div>
   
