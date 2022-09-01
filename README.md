@@ -20,6 +20,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" />  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png" />  
+   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/stickers/100/000000/selenium-test-automation.png"/> 
+
  
 </div>
   
