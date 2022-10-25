@@ -2,7 +2,6 @@
 
 - 😎 Test analyst QA/QD 
 - 😎 Automação (Selenium)
-- 😁 Desenvolvedor Frontend
 - 😁 Desenvolvedor Backend
 
 <div align="center">
