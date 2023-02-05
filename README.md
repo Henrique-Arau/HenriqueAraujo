@@ -23,11 +23,11 @@
    
   <h3 align="left">Testing Tools:</h3>
   
-</a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
-</a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="appium" height="40" width="40" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
-</a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
-</a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-</a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
+</a> <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
+</a> <img alt="appium" height="40" width="40" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
+</a>  <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
+</a> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
+</a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
  
 </div>
   
