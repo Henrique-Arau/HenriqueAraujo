@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/Henrique-Arau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Arau&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Arau&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Arau&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Arau&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+ 
 </div>
   <h3 align="left">Languages and Tools:</h3>
   <div style="display: inline_block"><br>
@@ -19,7 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" />  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png" />  
-   
+
    
   <h3 align="left">Testing Tools:</h3>
   
