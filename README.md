@@ -36,7 +36,7 @@
   ##
   
   <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC-Dqvw_APzXEAk6gY5AYflA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/peniel-henrique-do-carmo-ara%C3%BAjo-67b322129" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/Henrique-Arau/Henrique-Arau/blob/output/github-contribution-grid-snake.svg)
