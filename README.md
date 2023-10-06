@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Henrique Araujo
 
 - 😎 Test analyst QA/QD 
-- 😎 Automação (Selenium)
+- 😎 Automação (RobotFramework)
 - 😁 Desenvolvedor Backend
 
 <div align="center">
