@@ -19,7 +19,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="Kotin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" />  
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
-  <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" /> 
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
 
    
   <h3 align="left">Testing Tools:</h3>
