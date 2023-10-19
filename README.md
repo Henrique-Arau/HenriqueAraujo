@@ -12,12 +12,12 @@
 </div>
   <h3 align="left">Languages and Tools:</h3>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img align="center" alt="Kotin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png" />  
-  <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png" /> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
