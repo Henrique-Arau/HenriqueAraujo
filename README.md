@@ -27,7 +27,7 @@
 </a> <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
 </a>  <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-</a>  <img alt="RobotFramework" height="40" width="40" src="https://www.svgrepo.com/download/374049/robotframework">
+</a>  <img alt="RobotFramework" height="40" width="40" src="https://www.svgrepo.com/download/374049/robotframework.svg">
  
 </div>
   
