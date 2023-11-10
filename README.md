@@ -2,7 +2,7 @@
 
 - 😎 Test analyst QA/QD 
 - 😎 Automação (RobotFramework)
-- 😁 Desenvolvedor Backend
+- 😁 Desenvolvedor Backend e Frontend
 
 <div align="center">
   <a href="https://github.com/Henrique-Arau">
