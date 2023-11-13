@@ -1,4 +1,4 @@
-## Olá! Eu sou o Henrique Araujo
+## Olá! Eu sou o Peniel Henrique
 
 - 😎 Test analyst QA/QD 
 - 😎 Automação (RobotFramework)
