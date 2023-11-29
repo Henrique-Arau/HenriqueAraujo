@@ -1,8 +1,21 @@
-## Olá! Eu sou o Peniel Henrique
+## Olá, mundo! Meu nome é <strong>Peniel Henrique</strong>! 👋
+
+  
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
 
 - 😎 Test analyst QA/QD 
 - 😎 Automação (RobotFramework)
 - 😁 Desenvolvedor Backend e Frontend
+  
+ Sou Graduado em Análise e Desenvolvimento de Sistemas e pos graduado em Gestão em qualidade de software tenho experiência de 5 anos como 
+operador de dados com foco na área administrativa, tenho 1 ano de experiência com desenvolvimento de sistemas e 2 anos
+de experiência como analista de testes/QA, possuindo uma facilidade em se adaptar a diversos ambientes distintos de trabalho e sempre 
+utilizando de uma comunicação simples e de fácil entendimento.
+Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, 
+não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+
 
 <div align="center">
   <a href="https://github.com/Henrique-Arau">
@@ -22,7 +35,6 @@
   <img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   
-
    
   <h3 align="left">Testing Tools:</h3>
   
