@@ -43,7 +43,10 @@ não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar
 </a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 </a>  <img alt="RobotFramework" height="40" width="40" src="https://www.svgrepo.com/download/374049/robotframework.svg">
 </a>  <img alt="Jira" height="40" width="40" src="https://www.svgrepo.com/download/376328/jira.svg">
- 
+
+  <h3 align="left">Data Analyzer:</h3>
+  
+<img width="64" height="64" src="http://www.w3.org/2000/svg" alt="Power BI"/>
 </div>
   
   ##
