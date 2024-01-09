@@ -46,7 +46,7 @@ não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar
 
   <h3 align="left">Data Analyzer:</h3>
   
-<img width="64" height="64" src="http://www.w3.org/2000/svg" alt="Power BI"/>
+<img width="64" height="64" src="https://icons8.com/icons/set/power-bi-logo" alt="Power BI"/>
 </div>
   
   ##
