@@ -43,6 +43,10 @@ não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar
 </a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 </a>  <img alt="RobotFramework" height="40" width="40" src="https://www.svgrepo.com/download/374049/robotframework.svg">
 </a>  <img alt="Jira" height="40" width="40" src="https://www.svgrepo.com/download/376328/jira.svg">
+<img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Neilton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 
   <h3 align="left">Data Analyzer:</h3>
   
