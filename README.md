@@ -34,7 +34,9 @@ não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-  
+  <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Neilton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    
   <h3 align="left">Testing Tools:</h3>
   
@@ -43,9 +45,7 @@ não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar
 </a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 </a>  <img alt="RobotFramework" height="40" width="40" src="https://www.svgrepo.com/download/374049/robotframework.svg">
 </a>  <img alt="Jira" height="40" width="40" src="https://www.svgrepo.com/download/376328/jira.svg">
-<img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Neilton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 
 
   <h3 align="left">Data Analyzer:</h3>
