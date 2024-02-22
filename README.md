@@ -7,7 +7,7 @@
 
 - 😎 Test analyst QA/QD 
 - 😎 Automação (RobotFramework e Cypress)
-- 😁 Desenvolvedor Backend e Frontend
+- 😁 Conhecimento em Desenvolvimento Frontend e Backend
   
  Sou Graduado em Análise e Desenvolvimento de Sistemas e pos graduado em Gestão em qualidade de software tenho experiência de 5 anos como 
 operador de dados com foco na área administrativa, tenho 1 ano de experiência com desenvolvimento de sistemas e 2 anos
