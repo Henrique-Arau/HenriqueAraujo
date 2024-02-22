@@ -6,7 +6,7 @@
 <p align="left"> 
 
 - 😎 Test analyst QA/QD 
-- 😎 Automação (RobotFramework && Cypress)
+- 😎 Automação (RobotFramework e Cypress)
 - 😁 Desenvolvedor Backend e Frontend
   
  Sou Graduado em Análise e Desenvolvimento de Sistemas e pos graduado em Gestão em qualidade de software tenho experiência de 5 anos como 
